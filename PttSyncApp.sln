@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PttSyncApp", "PttSyncApp\PttSyncApp.csproj", "{FA84621E-FBA2-4C58-8C4C-711FCD66083D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA84621E-FBA2-4C58-8C4C-711FCD66083D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA84621E-FBA2-4C58-8C4C-711FCD66083D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA84621E-FBA2-4C58-8C4C-711FCD66083D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA84621E-FBA2-4C58-8C4C-711FCD66083D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6F0F2D-04A4-464B-B33A-7B75CCAC6CBC}
+	EndGlobalSection
+EndGlobal
